@@ -1,5 +1,4 @@
 #!/bin/bash
-
 ########## DEBUG Mode ##########
 if [ -z ${FLUX_DEBUG+x} ]; then FLUX_DEBUG=0
     else FLUX_DEBUG=1
